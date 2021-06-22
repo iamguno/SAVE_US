@@ -1,5 +1,3 @@
-#스키마생성
-#Schema Generation
 
 CREATE TABLE adr_report
 (
